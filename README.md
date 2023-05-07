@@ -77,3 +77,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMzhiNDFlZDItZDNmYy00MzQ3LWI3OTctMWMwYTMzN
 Airline Report
 
 https://app.powerbi.com/view?r=eyJrIjoiODcxMTNlZDktNTgxOS00YzI1LWE2MDEtMDcwMjFjNWFjMjIyIiwidCI6ImUzYzJjNWNlLTQzMjctNGI3OS05NTQyLTI0Y2UwNzI4YmNhNSIsImMiOjF9
+
+Crypto Report
+
+https://app.powerbi.com/view?r=eyJrIjoiYmEzYjdlMjItMDVlMi00ZTk5LTljN2YtNjEwMDI0NzQ5N2ZlIiwidCI6ImUzYzJjNWNlLTQzMjctNGI3OS05NTQyLTI0Y2UwNzI4YmNhNSIsImMiOjF9
