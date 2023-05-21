@@ -6,10 +6,6 @@ Bank Report
 
 https://app.powerbi.com/view?r=eyJrIjoiZWM3MGQ1YzUtNDcwMS00YzAxLTg1NjAtZjI2NDM3ZDRjODEyIiwidCI6ImUzYzJjNWNlLTQzMjctNGI3OS05NTQyLTI0Y2UwNzI4YmNhNSIsImMiOjF9
 
-Shipment Report
-
-https://app.powerbi.com/view?r=eyJrIjoiZTdhN2U0NTAtY2QwZS00ZDYxLWE2NDUtOWZjNmExZGM0YjljIiwidCI6ImUzYzJjNWNlLTQzMjctNGI3OS05NTQyLTI0Y2UwNzI4YmNhNSIsImMiOjF9
-
 Fitness Tracker
 
 https://app.powerbi.com/view?r=eyJrIjoiYzRlYmJiMDEtYTA5MS00YWE0LWE3YzUtN2NiZjRjNjI2MDdjIiwidCI6ImUzYzJjNWNlLTQzMjctNGI3OS05NTQyLTI0Y2UwNzI4YmNhNSIsImMiOjF9
